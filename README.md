@@ -62,3 +62,34 @@ It reflects practical knowledge of business analytics and Excel-based data analy
 ---
 
 If you liked this project, give the repository a ⭐ on GitHub!
+
+---
+
+## 👥 Project Team & Contributions
+
+### **1. Sonali Tripathi – Team Leader**
+- Selected the project topic and led the complete workflow  
+- Cleaned and prepared the dataset in Excel  
+- Built all PivotTables and created the dashboard  
+- Prepared the PowerPoint presentation  
+- Wrote the full project report  
+- Coordinated the team and finalized all deliverables  
+
+---
+
+### **2. Ujwal – Research & Presentation Support**
+- Collected background information on OTT platforms  
+- Helped identify key insights from the dataset  
+- Assisted in designing and reviewing presentation slides  
+- Collaborated in refining the final PPT  
+
+---
+
+### **3. Raj – Documentation & Quality Review**
+- Cross-checked dataset entries for correctness  
+- Reviewed dashboard visuals for accuracy  
+- Helped draft introduction & conclusion sections of the report  
+- Performed final proofreading and formatting checks  
+
+---
+
